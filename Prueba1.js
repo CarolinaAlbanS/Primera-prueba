@@ -13,7 +13,7 @@
     <h3>Experiencia en programación</h3>
     <p>No tengo experiencia con la programación, lo maximo que he hecho es empezar un curso de Python en agosto.</p>
     <ul>Aficiones:</ul>
-    <li>Diamond painting</li>
+    <li></li>
     <li>K-dramas</li>
     <li>Pintar</li>
     <li>Rol</li>
